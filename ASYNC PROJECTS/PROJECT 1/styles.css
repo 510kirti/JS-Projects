@@ -1,0 +1,42 @@
+body{
+    background: #3c3b3b;
+}
+
+h1{
+    color: whitesmoke;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+p{
+    color: rgb(162, 128, 196);
+    font-size: 27px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Start{
+    margin: 50px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 25px;
+    border-color: rgb(31, 27, 27);
+    color: burlywood;
+    background-color: #746c6c;
+}
+
+#Start:hover{
+    background-color: #d4cfcf;
+}
+
+#Stop{
+    margin: 50px;
+    padding: 10px;
+    border-radius: 8px;
+    font-size: 25px;
+    border-color: rgb(31, 27, 27);
+    color: burlywood;
+    background-color: #928787;
+}
+
+#Stop:hover{
+    background-color: #d4cfcf;
+}
